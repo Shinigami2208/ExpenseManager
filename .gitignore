@@ -1,0 +1,14 @@
+target/
+
+.idea/
+*.iml
+.vscode/
+
+.DS_Store
+
+src/main/resources/db.properties
+
+logs/
+
+README.md
+demo/
